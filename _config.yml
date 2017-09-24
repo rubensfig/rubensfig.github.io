@@ -1,0 +1,14 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Rubens Figueiredo Resume
+email: r.figueiredo.52@gmail.com
+baseurl: ""
+url: "rubensfig.github.io"
+name: Rubens Figueiredo
+job: SDN/NFV Intern
+github_username:  rubensfig
+email_address: r.figueriedo.52@gmail.com
+
+# Build settings
+markdown: kramdown
