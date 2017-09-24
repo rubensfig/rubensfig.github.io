@@ -11,7 +11,9 @@ header {
         margin-bottom: ($spacer * 3);
     }
 }
-
+header .container {
+    background-color: rgba(255, 255, 255, 0.4);
+}
 .intro {
     margin-bottom: ($spacer * 2);
 
