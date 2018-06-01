@@ -18,6 +18,9 @@
         <dt>
             <p class="title">{{ qualification.qualification }}</p>
             <p class="company">{{ qualification.school }}</p>
+            {% if qualification.link %}
+            <a href="{{ qualification.link_name }}" class="link">Link:{{ qualification.link }} </a>
+            {% endif %}
             <p class="period">{{ qualification.period }}</p>
         </dt><!--
         --><dd>
