@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="container">
+  <h3 class="section-title">Useful stuff</h3>
+  <dl class="experience">
+      {% for post in site.data.posts %}
+          <dt>
+              <p class="title">{{ post.title }}</p>
+              <a href="{{ post.link }}" class="link">Link:{{ qualification.link_name }} </a>
+          </dt><!--
+          --><dd>
+          {% for tag in post.tags %}
+              <p>{{ tag }}</p>
+          </dd>
+      {% endfor %}
+  </dl>
+</div>
