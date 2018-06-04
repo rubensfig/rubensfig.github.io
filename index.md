@@ -20,5 +20,10 @@
 #### Books
 
 ## Programming Languages
+
+### Python
+### C++
+### Rust
+
 ## Interesting Projects
 
