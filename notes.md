@@ -1,6 +1,8 @@
-# Networking
+# Notes
 
-## Data center networking
+## Networking
+
+### Data centers
 
 * [Network Virtualization: Overlay and Underlay Design](http://www.nuagenetworks.net/blog/network-virtualization-overlay-and-underlay-design/)
 
