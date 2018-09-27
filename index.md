@@ -19,6 +19,16 @@
 * [RFC 2544-Based Benchmarking Tests Overview](https://www.juniper.net/documentation/en_US/junos/topics/concept/services-rpm-rfc2544-benchmarking-test-overview.html)
 
 ### Layer 2
+### IPv6
+
+* [RFC 3971 - SEcure Neighbor Discovery](https://tools.ietf.org/html/rfc3971)
+
+* [RFC 2461 - Neighbor Discovery](https://tools.ietf.org/html/rfc2461)
+
+* [RFC 2462 - Stateless Address Autoconfiguration](https://tools.ietf.org/html/rfc2462)
+
+* [Cisco IPv6 Configuration](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/sw/5_x/dcnm/unicast/configuration/guide/l3-dcnm-book/l3_ipv6.html)	
+
 ### OpenFlow
 ### SDN
 
