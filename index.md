@@ -12,6 +12,10 @@
 
 * [BGP EVPN for VXLAN](https://cumulusnetworks.com/learn/web-scale-networking-resources/white-papers/bgp-evpn-vxlan)
 
+* [Ethernet Virtual Private Network - EVPN](https://docs.cumulusnetworks.com/display/DOCS/Ethernet+Virtual+Private+Network+-+EVPN)
+
+* [BGP Route Types](http://bgphelp.com/2017/05/22/evpn-route-types/)
+
 ### Testing 
 
 * [RFC 2544](https://tools.ietf.org/html/rfc2544)
