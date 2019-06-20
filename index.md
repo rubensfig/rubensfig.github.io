@@ -16,6 +16,8 @@
 
 * [BGP Route Types](http://bgphelp.com/2017/05/22/evpn-route-types/)
 
+* [Inter-VRF Routing with VRF Lite](http://packetlife.net/blog/2010/mar/29/inter-vrf-routing-vrf-lite/)
+
 ### Testing 
 
 * [RFC 2544](https://tools.ietf.org/html/rfc2544)
@@ -33,9 +35,6 @@
 
 * [Cisco IPv6 Configuration](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/sw/5_x/dcnm/unicast/configuration/guide/l3-dcnm-book/l3_ipv6.html)	
 
-#### Videos
-#### Books
-
 ## Protocols and stuff
 
 * [What really happens when you navigate to a URL](http://igoro.com/archive/what-really-happens-when-you-navigate-to-a-url/)
@@ -43,15 +42,3 @@
 ## Low level stuff
 
 * [Gallery of Processor Cache Effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
-
-## Programming Languages
-
-### Python
-### C++
-### Rust
-
-## Interesting Projects
-
-## Interesting comments in the Linux Kernel 
-
-* [Complaining about Cisco](https://elixir.bootlin.com/linux/latest/source/net/ipv4/ip_gre.c#L137)
