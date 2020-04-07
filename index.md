@@ -2,6 +2,15 @@
 
 ## Networking
 
+### Multicast
+
+* [Overview of the Internet Multicast Routing Architecture](https://tools.ietf.org/html/rfc5110)
+* [Considerations for Internet Group Management Protocol (IGMP) and Multicast Listener Discovery (MLD) Snooping Switches](https://tools.ietf.org/html/rfc4541)
+
+* [Protocol Independent Multicast - Sparse Mode](https://tools.ietf.org/html/rfc4601)
+* [Protocol Independent Multicast - Dense Mode](https://tools.ietf.org/html/rfc3973)
+
+
 ### Data centers
 
 * [Network Virtualization: Overlay and Underlay Design](http://www.nuagenetworks.net/blog/network-virtualization-overlay-and-underlay-design/)
