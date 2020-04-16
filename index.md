@@ -1,5 +1,11 @@
 # Notes
 
+## Game Development
+
+### Communication
+* [Subnautica' Postmortem](https://gdcvault.com/play/1025691/-Subnautica)
+* [Community and Communication in Games-As-Services](https://www.youtube.com/watch?v=Fwv1G3WFSfI)
+
 ## Networking
 
 ### Multicast
