@@ -15,6 +15,7 @@
 
 * [Protocol Independent Multicast - Sparse Mode](https://tools.ietf.org/html/rfc4601)
 * [Protocol Independent Multicast - Dense Mode](https://tools.ietf.org/html/rfc3973)
+* [Multicast Routing Code in the Linux Kernel](https://www.linuxjournal.com/article/6070)
 
 
 ### Data centers
